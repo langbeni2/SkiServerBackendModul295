@@ -1,0 +1,202 @@
+{
+	"info": {
+		"_postman_id": "31eaebdd-eadd-4570-b8cf-71c2d6122ab9",
+		"name": "Backend",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39644638"
+	},
+	"item": [
+		{
+			"name": "Mitarbeiter-Registrierung",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Max Mustermann\",\r\n  \"email\": \"mali@example.com\",\r\n  \"passwort\": \"geheim123\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5180/api/Mitarbeiter/Register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"Mitarbeiter",
+						"Register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Mitarbeiter-Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"even@example.com\",\r\n  \"passwort\": \"geheim123\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5180/api/Mitarbeiter/Login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"Mitarbeiter",
+						"Login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Serviceaufträge anzeigen",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIyIiwidW5pcXVlX25hbWUiOiJNYXggTXVzdGVybWFubiIsImVtYWlsIjoibWF4aUBleGFtcGxlLmNvbSIsIm5iZiI6MTczOTcwODUwNSwiZXhwIjoxNzM5NzE5MzA1LCJpYXQiOjE3Mzk3MDg1MDUsImlzcyI6IlNraVNlcnZlckJhY2tlbmQiLCJhdWQiOiJTa2lTZXJ2ZXJVc2VycyJ9._gIhoJ1RQgMA9qt6dzQq6B7mbvgewtvGs6u2q4tU4rk",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5180/api/ServiceAuftrag",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"ServiceAuftrag"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Serviceauftrag erstellen",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"kunde\": {\r\n        \"name\": \"Max Mustermann\",\r\n        \"email\": \"mex@example.com\",\r\n        \"telefon\": \"123456789\"\r\n    },\r\n    \"mitarbeiterID\": 2,\r\n    \"dienstleistungID\": 1,\r\n    \"statusID\": 1,\r\n    \"priorität\": 2\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5180/api/ServiceAuftrag",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"ServiceAuftrag"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Serviceauftrag bearbeiten",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIzIiwidW5pcXVlX25hbWUiOiJNYXggTXVzdGVybWFubiIsImVtYWlsIjoiRXZlbkBleGFtcGxlLmNvbSIsIm5iZiI6MTczOTgxMzYxMiwiZXhwIjoxNzM5ODI0NDEyLCJpYXQiOjE3Mzk4MTM2MTIsImlzcyI6IlNraVNlcnZlckJhY2tlbmQiLCJhdWQiOiJTa2lTZXJ2ZXJVc2VycyJ9.BdcmNSgD1ldM6OUhVnTh3E0WUVpJ38uV0GzpUf7B7Qw",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"StatusId\": 3\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5180/api/ServiceAuftrag/8/status",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"ServiceAuftrag",
+						"8",
+						"status"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aufträge-Loeschen",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIzIiwidW5pcXVlX25hbWUiOiJNYXggTXVzdGVybWFubiIsImVtYWlsIjoiRXZlbkBleGFtcGxlLmNvbSIsIm5iZiI6MTczOTgxMzYxMiwiZXhwIjoxNzM5ODI0NDEyLCJpYXQiOjE3Mzk4MTM2MTIsImlzcyI6IlNraVNlcnZlckJhY2tlbmQiLCJhdWQiOiJTa2lTZXJ2ZXJVc2VycyJ9.BdcmNSgD1ldM6OUhVnTh3E0WUVpJ38uV0GzpUf7B7Qw",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5180/api/ServiceAuftrag/auftrag/7",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"ServiceAuftrag",
+						"auftrag",
+						"7"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
