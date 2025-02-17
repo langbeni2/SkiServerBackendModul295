@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\controllers\\serviceauftragcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:controllers\\serviceauftragcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\models\\serviceauftrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:models\\serviceauftrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\models\\dienstleistung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:models\\dienstleistung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\models\\kunde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:models\\kunde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\controllers\\mitarbeitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:controllers\\mitarbeitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\skiserverbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:skiserverbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\models\\mitarbeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:models\\mitarbeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\migrations\\20250212173959_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:migrations\\20250212173959_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\wwwroot\\anmeldung.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:wwwroot\\anmeldung.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|c:\\users\\mariclang\\source\\repos\\skiserverbackend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC0328A-86D0-48F2-9E30-CF252EF09A0E}|SkiServerBackend.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kunde.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Models\\Kunde.cs",
+              "RelativeDocumentMoniker": "Models\\Kunde.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Models\\Kunde.cs",
+              "RelativeToolTip": "Models\\Kunde.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:15:48.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T13:50:38.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceAuftragController.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Controllers\\ServiceAuftragController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceAuftragController.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Controllers\\ServiceAuftragController.cs",
+              "RelativeToolTip": "Controllers\\ServiceAuftragController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:42:50.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceAuftrag.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Models\\ServiceAuftrag.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceAuftrag.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Models\\ServiceAuftrag.cs",
+              "RelativeToolTip": "Models\\ServiceAuftrag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:29:41.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dienstleistung.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Models\\Dienstleistung.cs",
+              "RelativeDocumentMoniker": "Models\\Dienstleistung.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Models\\Dienstleistung.cs",
+              "RelativeToolTip": "Models\\Dienstleistung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:12:03.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T11:48:50.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:53:05.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MitarbeiterController.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Controllers\\MitarbeiterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MitarbeiterController.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Controllers\\MitarbeiterController.cs",
+              "RelativeToolTip": "Controllers\\MitarbeiterController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwFAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:43:43.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:48:33.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:27:07.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T10:44:32.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T15:05:18.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SkiServerBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\SkiServerBackend.csproj",
+              "RelativeDocumentMoniker": "SkiServerBackend.csproj",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\SkiServerBackend.csproj",
+              "RelativeToolTip": "SkiServerBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-15T12:18:04.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250212173959_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Migrations\\20250212173959_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250212173959_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Migrations\\20250212173959_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250212173959_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:39:59.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mitarbeiter.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Models\\Mitarbeiter.cs",
+              "RelativeDocumentMoniker": "Models\\Mitarbeiter.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Models\\Mitarbeiter.cs",
+              "RelativeToolTip": "Models\\Mitarbeiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:29:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAMgUAAAAAAAAAAD4v8gUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-14T12:02:16.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\script.js",
+              "RelativeToolTip": "wwwroot\\script.js",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswEoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-14T07:59:00.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "anmeldung.html",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\anmeldung.html",
+              "RelativeDocumentMoniker": "wwwroot\\anmeldung.html",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\anmeldung.html",
+              "RelativeToolTip": "wwwroot\\anmeldung.html",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-14T07:46:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv50AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:08:57.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "wwwroot\\Index.html",
+              "ToolTip": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\Index.html",
+              "RelativeToolTip": "wwwroot\\Index.html",
+              "ViewState": "AgIAAGIAAAAAAAAAAABxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-14T07:57:58.711Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 139,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jetstream-Service</title>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img src="images/logo.png" alt="Jetstream Logo" class="navbar-brand">
+            </a>
+            <button
+                class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Navigation umschalten"
+            >
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="Index.html">Startseite</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="kontakt.html">Kontakt</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="anmeldung.html">Anmeldung</a>
+                    </li>
+                </ul>
+                <button class="btn btn-secondary btn-dark-mode ms-3" onclick="toggleDarkMode()" id="darkModeToggle">Dark Mode</button>
+            </div>
+        </div>
+    </nav>
+    
+
+    <!-- Header -->
+    <header class="main-header" id="MainHeader">
+        <div class="overlay"></div>
+        <video autoplay loop muted playsinline class="background-video">
+            <source src="videos/intro.mp4" type="video/mp4">
+            Ihr Browser unterstützt das Video-Tag nicht.
+        </video>
+        <div class="header-content text-center">
+            <h1>Willkommen bei Jetstream-Service</h1>
+            <p>Ihr professioneller Partner für Ski-Service und -Pflege.</p>
+        </div>
+    </header>
+    
+    
+
+    <!-- Angebot mit Bildern -->
+    <section class="container my-5">
+        <h2 class="text-center mb-4">Unsere Dienstleistungen</h2>
+        <div class="row g-3"> <!-- Abstände zwischen Karten mit g-3 -->
+            <!-- Kleiner Service -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/kleiner-service.png" class="card-img-top" alt="Kleiner Service">
+                    <div class="card-body">
+                        <h5 class="card-title">Kleiner Service</h5>
+                        <p class="card-text">Grundlegende Reparaturen und Wachsschicht. Perfekt für den Einstieg. <br> Jetzt für 20 CHF (statt 25 CHF).</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Grosser Service -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/grosser-service.jpg" class="card-img-top" alt="Großer Service">
+                    <div class="card-body">
+                        <h5 class="card-title">Großer Service</h5>
+                        <p class="card-text">Umfassende Pflege inklusive Kantenschleifen und professionellem Finish. <br> Jetzt für 50 CHF (statt 100 CHF).</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Rennski-Service -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/rennski-service.png" class="card-img-top" alt="Rennski-Service">
+                    <div class="card-body">
+                        <h5 class="card-title">Rennski-Service</h5>
+                        <p class="card-text">Maximale Leistung für Wettkämpfe. <br> Jetzt für 200 CHF (statt 220 CHF).</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Bindung montieren -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/bindung.png" class="card-img-top" alt="Bindung montieren">
+                    <div class="card-body">
+                        <h5 class="card-title">Bindung montieren und einstellen</h5>
+                        <p class="card-text">Sicher und präzise. <br> Jetzt für 22 CHF (statt 34 CHF).</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Fell zuschneiden -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/fell.png" class="card-img-top" alt="Fell zuschneiden">
+                    <div class="card-body">
+                        <h5 class="card-title">Fell zuschneiden</h5>
+                        <p class="card-text">Maßgeschneiderte Präzision. <br> Jetzt für 50 CHF (statt 51 CHF).</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Heißwachsen -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/heisswachsen.png" class="card-img-top" alt="Heißwachsen">
+                    <div class="card-body">
+                        <h5 class="card-title">Heißwachsen</h5>
+                        <p class="card-text">Optimale Gleiteigenschaften. <br> Jetzt für 60 CHF (statt 70 CHF).</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="text-center py-4 footer">
+        <p>&copy; 2024 Jetstream-Service. Alle Rechte vorbehalten.</p>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="darkmode.js"></script>
+</body>
+</html>

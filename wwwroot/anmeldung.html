@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kontakt - Jetstream-Service</title>
+  <!-- Bootstrap CSS zuerst laden -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <!-- Dann Ihre eigenen Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+</body>
+</html>
+
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="Index.html">
+                <img src="images/logo.png" alt="Jetstream Logo" class="navbar-brand">
+            </a>
+            <button
+                class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Navigation umschalten"
+            >
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link " href="Index.html">Startseite</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="kontakt.html">Kontakt</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link active" href="anmeldung.html">Anmeldung</a>
+                    </li>
+                </ul>
+                <button class="btn btn-secondary btn-dark-mode ms-3" onclick="toggleDarkMode()" id="darkModeToggle">Dark Mode</button>
+            </div>
+        </div>
+    </nav>
+    
+    
+
+
+<header class="main-header" id="MainHeader">
+    <div class="overlay"></div>
+    <video autoplay loop muted playsinline class="background-video">
+        <source src="videos/bergpano.mp4" type="video/mp4">
+        Ihr Browser unterstützt das Video-Tag nicht.
+    </video>
+    <div class="header-content text-center">
+        <h1>Anmeldung</h1>
+        <p>Onlineanmeldung für Ihren Ski-Service</p>
+    </div>
+</header>
+
+
+    <section class="container my-5">
+        <h2 class="text-center mb-4">Anmeldeformular</h2>
+        <form id="anmeldungForm" class="needs-validation" novalidate>
+            <div class="mb-3">
+                <label for="kundenname" class="form-label">Kundenname</label>
+                <input type="text" class="form-control" id="kundenname" name="kundenname" required>
+                <div class="invalid-feedback">
+                    Bitte geben Sie Ihren Namen ein. 
+                </div>
+            </div>
+
+           
+        
+            <div class="mb-3">
+                <label for="email" class="form-label">E-Mail</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+                <div class="invalid-feedback">
+                    Bitte geben Sie eine gültige E-Mail-Adresse ein.
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="telefon" class="form-label">Telefon</label>
+                <input type="tel" class="form-control" id="telefon" name="telefon" required>
+                <div class="invalid-feedback">
+                    Bitte geben Sie Ihre Telefonnummer ein.
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="prioritaet" class="form-label">Priorität</label>
+                <select class="form-select" id="prioritaet" name="prioritaet" required>
+                    <option value="" disabled selected>Bitte wählen</option>
+                    <option value="tief">Tief (+5 Tage)</option>
+                    <option value="standard">Standard </option>
+                    <option value="express">Express (-2 Tage)</option>
+                </select>
+                <div class="invalid-feedback">
+                    Bitte wählen Sie eine Priorität aus.
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="dienstleistung" class="form-label">Dienstleistung</label>
+                <select class="form-select" id="dienstleistung" name="dienstleistung" required>
+                    <option value="" disabled selected>Bitte wählen</option>
+                    <option value="kleiner-service">Kleiner Service</option>
+                    <option value="grosser-service">Grosser Service</option>
+                    <option value="rennski-service">Rennski-Service</option>
+                    <option value="bindung">Bindung montieren und einstellen</option>
+                    <option value="fell">Fell zuschneiden</option>
+                    <option value="heisswachsen">Heisswachsen</option>
+                </select>
+                <div class="invalid-feedback">
+                    Bitte wählen Sie eine Dienstleistung aus.
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Anmelden</button>
+        </form>
+    </section>
+
+    <footer class="text-center py-4 footer">
+        <p>&copy; 2024 Jetstream-Service. Alle Rechte vorbehalten.</p>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    
+       <script src="script.js" ></script>
+  <script src="darkmode.js"></script>
+
+</body>
+</html>

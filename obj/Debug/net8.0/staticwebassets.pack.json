@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SkiServerBackend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SkiServerBackend.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\Besteatigung.html",
+      "PackagePath": "staticwebassets\\Besteatigung.html"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\anmeldung.html",
+      "PackagePath": "staticwebassets\\anmeldung.html"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\anstyles.css",
+      "PackagePath": "staticwebassets\\anstyles.css"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\darkmode.js",
+      "PackagePath": "staticwebassets\\darkmode.js"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\images\\bindung.png",
+      "PackagePath": "staticwebassets\\images\\bindung.png"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\images\\fell.png",
+      "PackagePath": "staticwebassets\\images\\fell.png"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\images\\grosser-service.jpg",
+      "PackagePath": "staticwebassets\\images\\grosser-service.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\images\\heisswachsen.png",
+      "PackagePath": "staticwebassets\\images\\heisswachsen.png"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\images\\image.png",
+      "PackagePath": "staticwebassets\\images\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\images\\kleiner-service.png",
+      "PackagePath": "staticwebassets\\images\\kleiner-service.png"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\images\\rennski-service.png",
+      "PackagePath": "staticwebassets\\images\\rennski-service.png"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\kontakt.html",
+      "PackagePath": "staticwebassets\\kontakt.html"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\MaricLang\\source\\repos\\SkiServerBackend\\wwwroot\\videos\\Kontak.mp4",
+      "PackagePath": "staticwebassets\\videos\\Kontak.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SkiServerBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SkiServerBackend.props",
+      "PackagePath": "build\\SkiServerBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SkiServerBackend.props",
+      "PackagePath": "buildMultiTargeting\\SkiServerBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SkiServerBackend.props",
+      "PackagePath": "buildTransitive\\SkiServerBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
